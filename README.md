@@ -1,5 +1,9 @@
 # MKIDs
 Here, MKID detectors based on superconducting JJs are stored (codes, literature, paper review and etc.) 
+Inductance definition: Phi = L*I = B*A
+Induced back emf: V = -d(Phi)/dt = -L*dI/dt
+So any relation V = -dI/dt, the proportionality factor means inductance. This is a complete definition of inductance. The coil-wrapping geometric picture is just a classical depiction, but any relation of V prop to -dI/dt leads to inductance as a proportionality factor.
+Reason it has a geometric factor: V = -d(Phi)/dt = -A*dB/dt = -L*dI/dt, so inductance depends on geometry. It is just hard to picturize this geometric always, especially in 2D material case where geometry is quite subtle.
 
 0. Kinetic Inductance relation to kinetic energy of Cooper pairs: Tunable Superconducting nanoinductors
 https://iopscience.iop.org/article/10.1088/0957-4484/21/44/445202/pdf
