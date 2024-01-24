@@ -3,6 +3,8 @@ Here, MKID detectors based on superconducting JJs are stored (codes, literature,
 
 0. Kinetic Inductance relation to kinetic energy of Cooper pairs: Tunable Superconducting nanoinductors
 https://iopscience.iop.org/article/10.1088/0957-4484/21/44/445202/pdf
+![image](https://github.com/ksalizhan/MKIDs/assets/66937199/614515e8-7cc6-48d2-b2e4-94939c60d43a)
+
 Kinetic inductance of electrons when driven by AC-Voltage (E(t)), Drude model conductivity has an imaginary factor. For normal metals, omega*tau is small (scattering time is small), so in normal metals, kinetic inductance effect is minimal. However, in superconductors, scattering time tau = infinitely large, therefore the kinetic inductance is gigantic compared to normal electron's one.
 https://en.wikipedia.org/wiki/Drude_model
 ![image](https://github.com/ksalizhan/MKIDs/assets/66937199/b924b7e3-ca8a-448e-9908-1a130f538f80)
