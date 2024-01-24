@@ -1,5 +1,6 @@
-# MKIDs
-Here, MKID detectors based on superconducting JJs are stored (codes, literature, paper review and etc.) 
+# Kinetic Inductance, QP modelling 
+
+Here, JJ-based radiators, QP modelling, and MKID detectors based on superconducting JJs research are stored (codes, literature, paper review and etc.) 
 Inductance definition: Phi = L*I = B*A
 Induced back emf: V = -d(Phi)/dt = -L*dI/dt
 So any relation V = -dI/dt, the proportionality factor means inductance. This is a complete definition of inductance. The coil-wrapping geometric picture is just a classical depiction, but any relation of V prop to -dI/dt leads to inductance as a proportionality factor.
