@@ -27,4 +27,7 @@ Coupling efficiency of AC Josephson-based slot antenna:
     2.2 Josephson junction has its own oscillating frequency when driven with DC Voltage (const). f=2eV/h, I(t)=Ic sin{phi_0+(2eV/hbar)t}
      We also drive with only certain voltage to maximize the energy input (swinging, if you randomly push, energy transfer is not optimal, but if you push only at certain moments, all of the energy can be delivered to maximize the drive. Therefore, driving frequency should match the slot antenna frequency or should be integer multiple of that.
 
+Ben Mazin's thesis at Caltech: https://thesis.library.caltech.edu/3910/
+
+
 
