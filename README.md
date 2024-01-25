@@ -29,6 +29,7 @@ Coupling efficiency of AC Josephson-based slot antenna:
 
 Ben Mazin's thesis at Caltech: https://thesis.library.caltech.edu/3910/
 
-Excellent resource for understanding MKID-physics: quasiparticles-Cooper pairs and their physics on kinetic inductance.
+Excellent resource for understanding MKID-physics: quasiparticles-Cooper pairs and their physics on kinetic inductance: http://www-ecole-drtbt.grenoble.cnrs.fr/userfiles/file/drtbt2012/Introduction_to_KIDs_DRTBT_2012.pdf
+
 
 
