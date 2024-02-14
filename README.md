@@ -31,5 +31,9 @@ Ben Mazin's thesis at Caltech: https://thesis.library.caltech.edu/3910/
 
 Excellent resource for understanding MKID-physics: quasiparticles-Cooper pairs and their physics on kinetic inductance: http://www-ecole-drtbt.grenoble.cnrs.fr/userfiles/file/drtbt2012/Introduction_to_KIDs_DRTBT_2012.pdf
 
+QP Modelling in Aluminum SC resonators: PhD thesis, Pieter de Visser (2014, Delft): https://repository.tudelft.nl/islandora/object/uuid%3Aeae4c9fc-f90d-4c12-a878-8428ee4adb4c
+
+
+
 
 
